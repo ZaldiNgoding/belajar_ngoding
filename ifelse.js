@@ -38,12 +38,12 @@ console.log (banding5, '===')
 let number = 5;
 if (number > 50){
     if (number % 2 === 0){
-        console.log('lebih besar daripada lima dan genap')
-    }else{console.log('lebih besa dari lima dan ganjil')
+        console.log('lebih besar daripada lima puluh dan genap')
+    }else{console.log('lebih besa dari lima puluh dan ganjil')
 
     }
 }else{
     if (number % 2 === 0){
-        console.log('lebih kecil dari lima dan genap ')
-    }else {console.log('lebih kecil dari lima dan ganjil')}
+        console.log('lebih kecil dari lima puluh dan genap ')
+    }else {console.log('lebih kecil dari lima puluh dan ganjil')}
 }
