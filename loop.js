@@ -3,7 +3,7 @@
 // for(let i=0;i < 5 ; i++)
 //     console.log(i)
 
-//looping numeric for dasar + percobaan comand while
+//looping numeric for dasar + percobaan syntax break
 
 // for(let i=0;i <= 10 ; i+=1)
 //     {                                        //gunakan kurung {} jika mau menggunakan break dan disatukan dengan console.log output
@@ -20,10 +20,10 @@
 // }
 
 //penggunaan looping for dan fitur .length
-// const name = "Probe"
-// for(let i = 0;i < name.length;i+=1) 
-// console.log(name[i]);
-// console.log("total huruf dari nama " + name + " : "+ name.length);
+const name = "Probe"
+for(let i = 0;i < name.length;i+=1) 
+console.log(name[i]);
+console.log("total huruf dari nama " + name + " : "+ name.length);
 
 //aplikasi lain dari penggunaan .length
 
